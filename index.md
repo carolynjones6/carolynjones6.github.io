@@ -14,10 +14,11 @@ My past computer science research focused on developing a curriculum for element
 ## About My Mentor
 
 Dr. Zhe Jiang is an assistant professor in the Department of Computer & Information Science & Engineering at the University of Florida. He earned his Ph.D. in Computer Science from the University of Minnesota in 2016 and a B.E. in Electrical Engineering from the University of Science and Technology of China in 2010. His research focuses on data mining, machine learning, and AI, with an emphasis on spatiotemporal data mining for applications in Earth sciences, agriculture, transportation, and public health. His work is supported by federal agencies like NSF and NOAA, as well as industry partners; additionally he is a senior member of IEEE.
+website- https://jiangteam.org/index.html
 
 ## About My Project
 
-Project description goes here.
+Continuing from Professor Jiang's work with GeoAI I plan to be turning some of his work into a high school module
 
 [My Final Report](files/finalreport.pdf)
 
