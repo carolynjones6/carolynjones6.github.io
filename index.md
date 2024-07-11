@@ -24,4 +24,4 @@ Continuing from Professor Jiang's work with GeoAI I plan to be turning some of h
 
 ## My Blog
 
-[My Blog](blog.html)
+[My Blog](blog.md)
