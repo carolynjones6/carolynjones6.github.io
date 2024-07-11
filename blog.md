@@ -5,7 +5,7 @@ title: Blog
 
 {% for post in site.posts %}
 <article>
-  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <div class="entry">
     {{ post.excerpt }}
   </div>
